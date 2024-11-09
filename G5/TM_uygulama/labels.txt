@@ -1,0 +1,3 @@
+0 aslan
+1 kaplan
+2 kedi
